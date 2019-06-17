@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Ajax",
+    "path": "Ajax/AjaxController",
+    "port": 8080,
+    "status": 0,
+    "desc": "Ajax服务器"
+  },
+  {
+    "name": "game1",
+    "path": "gameOne/GameOneController",
+    "port": 1100,
+    "status": 0,
+    "desc": "游戏1服务器"
+  },
+  {
+    "name": "game2",
+    "path": "gameTwo/GameTwoController",
+    "port": 1200,
+    "status": 0,
+    "desc": "游戏2服务器"
+  },
+  {
+    "name": "game3",
+    "path": "gameThree/GameThreeController",
+    "port": 1300,
+    "status": 0,
+    "desc": "游戏3服务器"
+  }
+]
