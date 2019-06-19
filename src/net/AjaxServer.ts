@@ -1,17 +1,6 @@
 import http = require("http");
 import url = require("url");
 
-/**
- * 文 件 名：AjaxServer
- * 内    容：
- * 功    能：
- * 作    者：Aiden
- * 小    组：h5项目组-技术部
- * 版 本 号：v1.0.0
- * 修改日期：2018/10/22 上午10:37
- * 修改日志：
- * 版权说明：Copyright (c) 2018,aidentang All rights reserved.
- */
 export default class AjaxServer {
 
     /**
